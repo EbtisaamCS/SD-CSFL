@@ -76,23 +76,20 @@ Experiments on <b>CIFAR-10</b> and <b>Birds-525</b> show up to <b>35% higher det
 
 <h2>Datasets</h2>
 <ul>
-  <li><b>Birds-525 Real Dataset:</b> 
+ <li><b>Birds-525 Real Dataset:</b> 
     <a href="https://drive.google.com/file/d/1NvVfcrvXNOzX8mz1A-yhudegYJZXprSJ/view">Google Drive Link</a>
 </li>
 
-
-  <li><b>Birds-Synth (Synthetic Calibration Dataset):</b>
-    <a href="https://drive.google.com/file/d/10akkldmavU_CxsMlWacL0Lq0Nr9eQuz6/view?usp=drive_link">Google Drive Link</a>
-  </li>
-
-  <li><b>Birds-525 Real Dataset:</b> 
-    <a href="https://drive.google.com/file/d/1NvVfcrvXNOzX8mz1A-yhudegYJZXprSJ/view">Google Drive Link</a>
+<li><b>CIFAR-10 Real Dataset:</b>
+    <a href="https://www.cs.toronto.edu/~kriz/cifar.html">Official CIFAR-10 Link</a>
 </li>
 
 
-  <li><b>CIFAR-10-Synth (Synthetic Calibration Dataset):</b>
+  <li><b>Birds-Synth and CIFAR-10-Synth (Synthetic Calibration Dataset):</b>
     <a href="https://drive.google.com/file/d/10akkldmavU_CxsMlWacL0Lq0Nr9eQuz6/view?usp=drive_link">Google Drive Link</a>
   </li>
+
+ 
 
   <li><b>Synthetic Dataset Generator (Stable Diffusion + Pipelines):</b>  
     <a href="https://github.com/A-Kerim/Synthetic-Data-Usability">https://github.com/A-Kerim/Synthetic-Data-Usability</a>
