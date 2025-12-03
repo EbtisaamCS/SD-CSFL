@@ -1,5 +1,5 @@
 <h1>SD-CSFL: A Synthetic Data-Driven Conformity Scoring Framework for Robust Federated Learning</h1>
-<h3>Official Implementation — WACV 2026 (Algorithms Track)</h3>
+
 
 <p align="center">
   <img src="FMW.png" width="780" alt="SD-CSFL Overview">
