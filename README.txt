@@ -125,5 +125,4 @@ This work was supported by the Saudi Arabian Ministry of Education,
 the Saudi Arabian Cultural Bureau in London, and Umm Al-Qura University.  
 We also thank the High-End Computing (HEC) facility at Lancaster University for providing essential computational resources.
 </p>
-
 <hr>
