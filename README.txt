@@ -2,7 +2,7 @@
 ### Official Implementation — WACV 2026 (Algorithms Track)
 
 <p align="center">
-  <img src="overview.png" width="780"/>
+  <img src="FMW.pdf" width="780"/>
 </p>
 
 This repository contains the official implementation of the WACV 2026 paper:
